@@ -1,0 +1,9 @@
+# https://dsfa-31w3.onrender.com/
+# 11082012
+# https://omniroute-production-c50e.up.railway.app/
+# 11082012
+# hanaminikata
+# dd1c02700a873b17061716670e8197f69cf12e6f4fab44
+# groq
+# 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
+# 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
